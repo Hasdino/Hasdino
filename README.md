@@ -3,7 +3,7 @@
 
 
 
-![Alt Text](https://media.giphy.com/media/WrVOtWEay7fJS/giphy.gif)
+![Alt Text](https://media.giphy.com/media/WrVOtWEay7fJS/giphy.gif |  width=100)
 
 
 
