@@ -1,9 +1,6 @@
-### Hi there 👋
 
 
-
-<img src="https://media.giphy.com/media/4Wk3vMYcipa0/giphy.gif" width="48">
-![Alt Text](https://media.giphy.com/media/4Wk3vMYcipa0/giphy.gif)
+<img src="https://media.giphy.com/media/4Wk3vMYcipa0/giphy.gif" width="250">
 
 
 
