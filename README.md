@@ -3,7 +3,7 @@
 
 
 
-![Alt Text](https://media.giphy.com/media/WrVOtWEay7fJS/giphy.gif = 250x250)
+![Alt Text](https://media.giphy.com/media/4Wk3vMYcipa0/giphy.gif)
 
 
 
