@@ -1,6 +1,6 @@
 
 
-<img src="https://media.giphy.com/media/uHD7hQLqDtxqE/giphy.gif" width="800" height="400">
+<img src="https://media.giphy.com/media/uHD7hQLqDtxqE/giphy.gif" width="850" height="400">
 
 
 
